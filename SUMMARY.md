@@ -40,3 +40,4 @@
    * [মাল্টি ডাইমেনশনাল অ্যারে](multy_dimen_array.md)
 * [পয়েন্টার](pointer_intro.md)
    * [প্রাথমিক ধারণা](pointer_intro.md)
+   * [বেসিক অপারেশন](pointer_basic_operations.md)
